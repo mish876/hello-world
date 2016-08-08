@@ -1,2 +1,5 @@
 # hello-world
-Lab3-github guide
+Lab3
+
+hello 
+:)
